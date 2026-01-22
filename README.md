@@ -85,6 +85,10 @@ Confusion matrix shows more correct predictions than errors
 Model generalizes well to unseen data
 
 
+#outputs
+<img width="1359" height="217" alt="Image" src="https://github.com/user-attachments/assets/80c120ab-1505-41fd-9c60-4c4b9228853d" />
+<img width="1174" height="158" alt="Image" src="https://github.com/user-attachments/assets/3356f49c-5823-4ab2-9f08-8ddf86e2cd91" />
+
 # Key Learnings
 
 Importance of train–test split
